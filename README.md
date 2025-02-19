@@ -43,6 +43,7 @@ Esse desafio permitiu que eu aplicasse conceitos fundamentais de lógica de prog
 - **Variáveis**: Para armazenar o nome e a quantidade de experiência do herói.
 - **Operadores**: Para comparar os valores de XP e determinar o nível do herói.
 - **Estrutura de decisão (if-else)**: Para implementar a lógica que verifica em qual faixa de XP o herói se encaixa.
+- **Utilização do Node.Js** para fazer testes rodando o código.
 
 Esse tipo de exercício é ótimo para reforçar a lógica de programação e o uso de condicionais em JavaScript.
 ---
