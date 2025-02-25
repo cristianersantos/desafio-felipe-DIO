@@ -1,8 +1,8 @@
-# Desafio de Lógica de Programação com JavaScript - Bootcamp DIO
+# Desafios de Lógica de Programação com JavaScript - Bootcamp DIO
 
 Este projeto é uma solução para o desafio de Lógica de Programação proposto no **Bootcamp da DIO**. O objetivo do desafio foi implementar uma estrutura simples de decisão em JavaScript para determinar o nível de um herói com base na quantidade de experiência (XP).
 
-## Descrição
+## Descrição - PRIMEIRO DESAFIO
 
 O desafio consiste em criar uma variável para armazenar o nome e a quantidade de experiência de um herói. A partir disso, foi utilizada uma **estrutura de decisão** para determinar o nível do herói com base em sua XP. Cada nível corresponde a um intervalo específico de valores de XP.
 
@@ -22,6 +22,19 @@ Ao final, o programa exibe uma mensagem com o nome do herói e o nível correspo
 ## Tecnologias Utilizadas
 
 - **JavaScript**: Utilizado para resolver o desafio com base nos conceitos de variáveis, operadores e estruturas de decisão.
+
+## Desafio 2 - Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
+depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
+
+Se vitórias for menor do que 10 = Ferro
+Se vitórias for entre 11 e 20 = Bronze
+Se vitórias for entre 21 e 50 = Prata
+Se vitórias for entre 51 e 80 = Ouro
+Se vitórias for entre 81 e 90 = Diamante
+Se vitórias for entre 91 e 100= Lendário
+Se vitórias for maior ou igual a 101 = Imortal
+
+ **JavaScript**: Utilizado para resolver o desafio com base nos conceitos de Funções com parâmetros, funções de retorno e estruturas de decisão.
 
 ## Como Rodar o Projeto
 
